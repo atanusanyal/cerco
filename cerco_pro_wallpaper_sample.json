@@ -1,17 +1,17 @@
 {
-    "wallpapers": --> 
+    "wallpapers": 
         [
 	    {
-		"creator": "Zacharie Loire", --> 
-		"imageUrl": "https://preview.ibb.co/mjpabc/wallpaper_1.jpg", -->
+		"creator": "Zacharie Loire", 
+		"imageUrl": "https://preview.ibb.co/mjpabc/wallpaper_1.jpg", 
 		"name": "Nougat Wallpaper 1"
-                --> no thumbUrl
+               
 	    },
 	    {
-                "creator": "Zacharie Loire", --> different author name
-		"imageUrl": "https://image.ibb.co/bTdCNH/wallpaper_10.jpg", --> different url name
+                "creator": "Zacharie Loire", 
+		"imageUrl": "https://image.ibb.co/bTdCNH/wallpaper_10.jpg", 
 		"name": "Nougat Wallpaper 2"
-                --> no thumbUrl
+               
 	    }
         ]
 }
