@@ -118,13 +118,7 @@
 				"thumbUrl": "https://image.ibb.co/bTdCNH/wallpaper_10.jpg",
 				"name": "Wallpaper_10",
                 "category": "forest,sunset"
-			},
-            {
-				"author": "Erez Attias",
-				"url": "https://unsplash.it/4835/3223?image=1033",
-				"thumbUrl": "https://unsplash.it/400/200?image=1033",
-				"name": "Zurich Airport",
-                "category": "architecture"
 			}
+            
 		]
 }
