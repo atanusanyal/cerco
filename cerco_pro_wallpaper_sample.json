@@ -1,19 +1,5 @@
 {
-    "Categories": 
-        [
-            {
-                "name": "People"
-            },
-            {
-                "name": "Architecture"
-            },
-            {
-                "name": "City"
-            },
-            {
-                "name": "House"
-            }
-        ],
+    
     
 	"Wallpapers":
         [
@@ -22,29 +8,71 @@
 				"url": "https://preview.ibb.co/mjpabc/wallpaper_1.jpg",
 				"thumbUrl": "https://preview.ibb.co/mjpabc/wallpaper_1.jpg",
 				"name": "Wallpaper_1",
-                "category": "people"
+                
 			},
             {
 				"author": "Zacharie Loire",
 				"url": "https://preview.ibb.co/g7oCNH/wallpaper_2.jpg",
 				"thumbUrl": "https://preview.ibb.co/g7oCNH/wallpaper_2.jpg",
 				"name": "Wallpaper_2",
-                "category": "architecture"
+                
 			},
             {
 				"author": "Zacharie Loire",
 				"url": "https://preview.ibb.co/mkMA9x/wallpaper_3.jpg",
 				"thumbUrl": "https://preview.ibb.co/mkMA9x/wallpaper_3.jpg",
 				"name": "Wallpaper_3",
-                "category": "architecture,city"
+                
+			},
+		{
+				"author": "Zacharie Loire",
+				"url": "https://preview.ibb.co/hgqsNH/wallpaper_5.jpg",
+				"thumbUrl": "https://preview.ibb.co/hgqsNH/wallpaper_5.jpg",
+				"name": "Wallpaper_4",
+                
+			},
+		{
+				"author": "Zacharie Loire",
+				"url": "https://preview.ibb.co/kQN6hH/wallpaper_6.jpg",
+				"thumbUrl": "https://preview.ibb.co/kQN6hH/wallpaper_6.jpg",
+				"name": "Wallpaper_5",
+                
+			},
+		{
+				"author": "Zacharie Loire",
+				"url": "https://preview.ibb.co/hkgMGc/wallpaper_7.jpg",
+				"thumbUrl": "https://preview.ibb.co/hkgMGc/wallpaper_7.jpg",
+				"name": "Wallpaper_6",
+                
+			},
+		{
+				"author": "Zacharie Loire",
+				"url": "https://preview.ibb.co/gpDe2H/wallpaper_8.jpg",
+				"thumbUrl": "https://preview.ibb.co/gpDe2H/wallpaper_8.jpg",
+				"name": "Wallpaper_7",
+                
+			},
+		{
+				"author": "Zacharie Loire",
+				"url": "https://image.ibb.co/fs7iUx/wallpaper_9.jpg",
+				"thumbUrl": "https://image.ibb.co/fs7iUx/wallpaper_9.jpg",
+				"name": "Wallpaper_8",
+                
+			},
+		{
+				"author": "Zacharie Loire",
+				"url": "https://image.ibb.co/bTdCNH/wallpaper_10.jpg",
+				"thumbUrl": "https://image.ibb.co/bTdCNH/wallpaper_10.jpg",
+				"name": "Wallpaper_9",
+                
 			},
             
             {
 				"author": "Zacharie Loire",
 				"url": "https://preview.ibb.co/fjK8wc/wallpaper_4.jpg",
 				"thumbUrl": "https://preview.ibb.co/fjK8wc/wallpaper_4.jpg",
-				"name": "Wallpaper_4",
-                "category": "architecture"
+				"name": "Wallpaper_10",
+                
 			}
 		]
 }
